@@ -1,0 +1,11 @@
+{
+  "name": "candy-crash",
+  "version": "0.0.3",
+  "description": "CANDY CRASH игра в телеграмме",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vladimir003",
+  "license": "ISC"
+}
